@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋🏼 Hola, Soy Daniela Londoño
 
-<!--
-**daniela03h/daniela03h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy nutricionista de profesión pero hace poco mas de un año estudio desarrollo web para ser **Front-End**. Las tecnologias que estudio actualmente son:
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JavaScript
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portafolio
+- [Countries-explorer](https://daniela03h.github.io/countries-explorer/)
+- [Google-clone](https://daniela03h.github.io/google-clone/)
+- [Todo-list](https://daniela03h.github.io/todo-list/)
+- [Social-media-dashboard](https://daniela03h.github.io/social-media-dashboard/)
+
+## Contacto 
+📥   [daniela0393h@gmail.com](mailto:daniela0393h@gmail.com) <br/>
+💼   [https://www.linkedin.com/in/daniela0393h/](https://www.linkedin.com/in/daniela0393h/)
