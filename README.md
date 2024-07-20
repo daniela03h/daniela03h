@@ -1,6 +1,6 @@
 # 👋🏼 Hola, Soy Daniela Londoño
 
-Soy nutricionista de profesión pero hace poco mas de un año estudio desarrollo web para ser **Front-End**. Las tecnologias que estudio actualmente son:
+Estudiante de desarrollo web para ser **Front-End**. Las tecnologias que estudio actualmente son:
 
 
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
