@@ -1,6 +1,6 @@
 # 👋🏼 Hola, Soy Daniela Londoño
 
-Soy estudiante de desarrollo de software principalmente enfocado al desarrollo  **Front-End**. Las tecnologias que estudio actualmente son:
+Estudiante de desarrollo de software principalmente enfocada al desarrollo **Front-End**. Las tecnologias que estudio actualmente son:
 
 
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
